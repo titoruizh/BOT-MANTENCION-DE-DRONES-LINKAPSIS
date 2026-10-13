@@ -45,9 +45,11 @@ Python 3.11 · FastAPI · WhatsApp Cloud API · PostgreSQL/Supabase · Astro/Typ
 
 ## Capturas
 <!-- TODO: captura anonimizada del dashboard (sin nombres ni teléfonos) -->
-![Dashboard](docs/img/dashboard.png)
+<img width="1709" height="899" alt="image" src="https://github.com/user-attachments/assets/82def4d8-ba89-403e-b21e-ae7ab4e14f84" />
+
 <!-- TODO: captura de conversación de ejemplo con datos ficticios -->
-![Conversación de ejemplo](docs/img/chat.png)
+<img width="1218" height="428" alt="image" src="https://github.com/user-attachments/assets/5bb32601-72ea-4feb-a55c-09d8883deb75" />
+
 
 ## Autor
 Tito Ruiz Haros · [github.com/titoruizh](https://github.com/titoruizh)
